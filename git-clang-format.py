@@ -83,6 +83,7 @@ def main():
       'cc', 'cp', 'cpp', 'ipp', 'c++', 'cxx', 'hh', 'hpp', 'hxx', 'inc', 'inl',  # C++
       'ccm', 'cppm', 'cxxm', 'c++m',  # C++ Modules
       'cu', 'cuh',  # CUDA
+      'hip',  # HIP
       # Other languages that clang-format supports
       'proto', 'protodevel',  # Protocol Buffers
       'java',  # Java
